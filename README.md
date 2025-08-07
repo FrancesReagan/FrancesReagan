@@ -68,16 +68,7 @@ This project demonstrates my ability to architect scalable, forward-thinking pro
 - Built 53+ repositories, demonstrating rapid growth and consistent output
 - Gained experience in modern web development, product vision, and UI/UX principles
 
----
-
-## 📝 My GitHub Approach (Inspired by Keith Galli)
-
-- **Pinned Projects:** Highlight my best and most relevant work
-- **Detailed READMEs:** Project goals, setup, and usage instructions in every repo
-- **Active Maintenance:** Continuous updates and improvements
-- **Open to Collaboration:** Always seeking new ideas and partnerships!
-
----
+-----
 
 ## 📫 Connect with Me
 
