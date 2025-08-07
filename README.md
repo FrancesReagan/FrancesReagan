@@ -1,6 +1,16 @@
 # Frances Reagan James
 
-Welcome to my GitHub profile!
+Welcome to Frances "Reagan" James's GitHub profile!
+
+---------------------------------------------------------------
+
+## 🔥 What I'm Working On
+
+- **I'm currently working on:** Expanding the SmartNest Learning Tracker into an AI-powered EdTech platform with features like auto-updating explainer videos, customizable AI teachers, and gamified learning experiences.
+- **I recently built a program to:** Manage and track learning progress for students and educators, featuring secure authentication, advanced UI/UX, and seamless full-stack integration.
+- **I am looking to collaborate on:** AI integration for education, including natural language processing, generative AI content, and personalized learning experiences.
+
+------------------------------------------------------------------
 
 I am a certified Software Engineer and a proud graduate of the Per Scholas Software Engineering bootcamp. Over 15 weeks, I built 53 repositories, rapidly mastering the MERN stack (MongoDB, Express, React, Node.js) and modern web development best practices. My journey showcases my ability to learn fast, deliver consistently, and innovate in educational technology.
 
