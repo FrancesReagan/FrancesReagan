@@ -77,8 +77,3 @@ Open to collaboration and conversations about innovative applications of AI in e
 
 ---
 
-## 📚 **Background**
-
-**Education:** B.S. in Biology | Per Scholas Software Engineering Graduate (2024)
-
-Graduated from an intensive 15-week software engineering bootcamp where I built 53+ repositories, demonstrating rapid growth and consistent output. Gained experience in modern web development, product vision, and UI/UX principles. My background in biology brings a unique perspective to understanding how people learn and process information.
