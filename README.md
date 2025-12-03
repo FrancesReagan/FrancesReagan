@@ -1,108 +1,83 @@
-# Frances Reagan James
+## 🔥 **What I'm Working On**
 
-Welcome to Frances "Reagan" James's GitHub profile!
+I'm developing an AI-powered educational technology platform that addresses critical challenges in online learning. The platform focuses on improving content accuracy and providing personalized learner support through intelligent automation.
 
----------------------------------------------------------------
+**Current Status:** Building core components including Chrome extension and embeddable widget. Exploring AI/ML applications in education including natural language processing, computer vision, and adaptive learning systems.
 
-## 🔥 What I'm Working On
-
-- **Latest Build:** [Smart Nest Video Updater](https://github.com/FrancesReagan/smart-nest-video-updater) Chrome extension (v1.0.0) - Detects educational videos on YouTube, identifies outdated content, and provides real-time notifications. Built to solve the "outdated tutorial" problem when software versions changes.
-
-- **Current Focus:** Integrating OpenAI API to auto-generate "What's Changed" summaries for outdated educational videos.
-
-- **Next Phase:** Expanding SmartNest into an AI-powered EdTech platform with features like auto-updating explainer videos, customizable AI teachers, and gamified learning experiences.
-
-- **SmartNest Learning Tracker:** Full-stack learning management system featuring secure authentication, advanced UI/UX, and seamless MERN stack integration. [Live App](https://smartnesttracker.netlify.app).
-
-- **Looking to collaborate on:** AI integration for education, including natural language processing, generative AI content, and personalized learning experiences
-
-------------------------------------------------------------------
-
-I'm a certified Software Engineer and proud graduate of the Per Scholas Software Engineering bootcamp. Over 15 weeks, I built 53 repositories while mastering the MERN stack (MongoDB, Express, React, Node.js) and modern web development practices. My strength: learning fast and building solutions to real problems in education.
-
-**Starting January 2026:** commencing my Masters Program: MSc in Data Science/Machine Learning. I'll be combining software engineering with machine learning to build intelligent EdTech products—think recommendation systems for learning paths, predictive models for student success, and AI-powered features that adapt to how people actually learn. I will continue to deepen my learning on building both the models AND the applications that use them.
+I'm interested in collaborating on AI integration for education, particularly around content analysis, sentiment analysis, and personalized learning experiences.
 
 ---
 
-## 👋 About Me
+## 👋 **About Me**
 
-- **Location:** Atlanta, GA
-- **Education:** Per Scholas Software Engineering Graduate | MSc Data Science/ML (Starting Jan 2026)
-- **Skills:** MERN stack, modern UI/UX, production-ready apps, learning ML/AI
-- **Passion:** Building EdTech tools that anticipate learners needs and provide solutions.
+Software Engineer and Per Scholas bootcamp graduate with a B.S. in Biology. I built 53 repositories over 15 weeks, mastering the MERN stack and modern web development practices. My work demonstrates rapid learning, consistent delivery, and a passion for educational technology innovation.
 
----
+📍 Atlanta, GA  
+🎓 B.S. in Biology | Starting Master's in Data Science, January 2026  
+💡 Focused on AI/ML applications in education
 
-## 🚀 Featured Projects
-
-### Smart Nest Video Updater - Chrome Extension
-
-**The Problem:** Learning frustrated by quickly out-of-date tutorials as new versions of apps happen so quickly. Buttons were in different places, features moved.
-
-**What It Does:**
-- Automatically detects coding tutorials on YouTube.
-- Shows notification when educational content is identified.
-- Clean UI with animated notifications.
-- Watches for navigation to new videos in real-time.
-
-**Current Status:** ✅ MVP Complete - Detection and notification working.
-**Next Step:** Integrating OpenAI API to generate "What's Changed" summaries.
-
-**Tech Stack:** JavaScript (ES6+), Chrome Extension API, DOM Manipulation  
-**Repo:** [smart-nest-video-updater](https://github.com/FrancesReagan/smart-nest-video-updater)
+**Starting January 2026:** Beginning my Master's in Data Science/Machine Learning. I'll be combining software engineering with machine learning to build intelligent EdTech products - recommendation systems for learning paths, predictive models for learner success, and AI-powered features that adapt to how people actually learn. My goal is to master both building the models AND the applications that use them.
 
 ---
 
-### SmartNest Learning Tracker - Full-Stack LMS
+## 💻 **Technical Skills**
 
-Comprehensive learning management system designed to empower learners and educators.
+**Frontend:** React, JavaScript, TypeScript, Tailwind CSS, Responsive Design  
+**Backend:** Node.js, Express, MongoDB, REST APIs, JWT Authentication  
+**AI/ML (Learning):** Natural Language Processing, Computer Vision, Machine Learning, Fine-tuning LLMs, LoRA/PEFT, Hugging Face Transformers, PyTorch, Retrieval-Augmented Generation (RAG)  
+**Tools:** Git, GitHub, Netlify, Render, VS Code, Chrome Extensions  
+**Practices:** Agile workflow, clean code, code reviews, CI/CD basics
 
-- **Frontend:** [smart-nest-learning-tracker-frontend/src](https://github.com/FrancesReagan/smart-nest-learning-tracker-frontend/tree/main/src)
-- **Backend:** [smart-nest-learning-tracker-backend](https://github.com/FrancesReagan/smart-nest-learning-tracker-backend)
+---
+
+## 🚀 **Recent Work**
+
+### 🪺 **Smart Nest Chrome Extension**
+
+Built my first Chrome extension to solve a problem I kept running into. Still in early development but excited about where it's headed.
+
+✅ **Status:** Working prototype  
+🔄 **Next:** Adding AI features + Chrome Web Store launch
+
+**Tech Stack:** JavaScript (ES6+), Chrome Extension API, DOM Manipulation
+
+---
+
+### **Smart Nest Learning Tracker - Full-Stack LMS**
+
+Comprehensive learning management system designed to empower learners and educators. Built in one week as capstone project.
+
+🔗 **Frontend:** https://github.com/FrancesReagan/smart-nest-learning-tracker-frontend  
+🔗 **Backend:** https://github.com/FrancesReagan/smart-nest-learning-tracker-backend
 
 **Key Features:**
-- Deployed on **Netlify** (frontend) and **Render** (Node.js backend)
-- Secure **JWT authentication**
-- Responsive design with **Tailwind CSS**
-- Full **CRUD operations** for course and session management
-- Advanced React concepts: Context API, custom hooks, protected routes, axios interceptors
-- Will continually updated and refined
+- Deployed on Netlify (frontend) and Render (backend)
+- Secure JWT authentication with protected routes
+- Responsive design with Tailwind CSS and glassmorphism effects
+- Full CRUD operations for course and session management
+- Advanced React: Context API, custom hooks, axios interceptors
 
-**Tech Stack:**  
-React | Node.js | Express | MongoDB | Tailwind CSS | JWT | Axios
-
-**Vision:**  
-SmartNest is the foundation for my ambitious **AI-powered EdTech platform**:
-- AI-generated explainer videos that auto-update with technology changes
-- Customizable AI teachers with personalized avatars
-- Gamification: quest journals, character-based profiles, and social accountability systems
-
-This project demonstrates my ability to architect scalable, forward-thinking product innovations beyond traditional LMS platforms.
+**Tech Stack:** React | Node.js | Express | MongoDB | Tailwind CSS | JWT
 
 ---
 
-## 🛠️ Technical Skills
+## 🔗 **Connect**
 
-- **Languages & Frameworks:** JavaScript (ES6+), React, Node.js, Express, Python, SQL
-- **Front-End:** React, Tailwind CSS, responsive/mobile-first design, glassmorphism effects
-- **Back-End:** Node.js, Express, MongoDB, REST APIs, JWT authentication
-- **Dev Tools:** Git & GitHub, Netlify, Render, VS Code
-- **Development Practices:** Agile workflow, clean code, code reviews, CI/CD basics
+🔗 **GitHub:** https://github.com/FrancesReagan  
+🔗 **LinkedIn:** https://linkedin.com/in/francesreaganjames
 
 ---
 
-## 📚 Per Scholas Experience
+## 🎯 **What's Next**
 
-- Graduated from an intensive 15-week software engineering bootcamp
-- Built 53+ repositories, demonstrating rapid growth and consistent output
-- Gained experience in modern web development, product vision, and UI/UX principles
+Starting my Master's in Data Science in January 2026, where I'll be conducting research at the intersection of AI and educational technology. Focus areas include machine learning applications for online learning environments and personalized educational experiences.
 
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/francesreaganjames)
+Open to collaboration and conversations about innovative applications of AI in education.
 
 ---
 
-> _"Code with purpose. Learn relentlessly. Empower others."_
+## 📚 **Background**
+
+**Education:** B.S. in Biology | Per Scholas Software Engineering Graduate (2024)
+
+Graduated from an intensive 15-week software engineering bootcamp where I built 53+ repositories, demonstrating rapid growth and consistent output. Gained experience in modern web development, product vision, and UI/UX principles. My background in biology brings a unique perspective to understanding how people learn and process information.
