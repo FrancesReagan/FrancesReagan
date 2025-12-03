@@ -46,7 +46,7 @@ Built my first Chrome extension to solve a problem I kept running into. Still in
 ### **Smart Nest Learning Tracker - Full-Stack LMS**
 
 Comprehensive learning management system designed to empower learners and educators. Built in one week as capstone project.
-*Under construction for new updates -- so not fully live at this time---thank you for your patience---
+---Under construction for new updates -- so not fully live at this time---thank you for your patience---
 
 🔗 **Frontend:** https://github.com/FrancesReagan/smart-nest-learning-tracker-frontend  
 🔗 **Backend:** https://github.com/FrancesReagan/smart-nest-learning-tracker-backend
