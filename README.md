@@ -1,6 +1,6 @@
 ## 🔥 **What I'm Working On**
 
-I'm developing an AI-powered educational technology platform that addresses critical challenges in online learning. The platform focuses on improving content accuracy and providing personalized learner support through intelligent automation.
+I'm developing SmartNest AI-powered educational technology platform that addresses critical challenges in online learning. The platform focuses on improving content accuracy and providing personalized learner support through intelligent automation.
 
 **Current Status:** Building core components including Chrome extension and embeddable widget. Exploring AI/ML applications in education including natural language processing, computer vision, and adaptive learning systems.
 
