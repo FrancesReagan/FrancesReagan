@@ -16,7 +16,7 @@ Software Engineer and Per Scholas bootcamp graduate with a B.S. in Biology. I bu
 🎓 B.S. in Biology | Starting Master's in Data Science, January 2026  
 💡 Focused on AI/ML applications in education
 
-**Starting January 2026:** Beginning my Master's in Data Science/Machine Learning. I'll be combining software engineering with machine learning to build intelligent EdTech products - recommendation systems for learning paths, predictive models for learner success, and AI-powered features that adapt to how people actually learn. My goal is to master both building the models AND the applications that use them.
+**Starting January 2026:** Beginning my Master's in Data Science/Machine Learning. I'll be combining software engineering with machine learning to build intelligent EdTech products - recommendation systems for learning paths, predictive models for learner success, and AI-powered features that adapt to how people actually learn. My goal is to master both building the models and the applications that use them.
 
 ---
 
