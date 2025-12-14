@@ -1,6 +1,6 @@
 ## 🔥 **What I'm Working On**
 
-I'm developing SmartNest: an AI-powered educational technology platform that addresses critical challenges in online learning. The platform focuses on improving content accuracy and providing personalized learner support through intelligent automation.
+I'm developing SmartNest EdTech: an AI-powered educational technology platform that addresses critical challenges in online learning. The platform focuses on improving content accuracy and providing personalized learner support through intelligent automation.
 
 **Current Status:** Building core components including Chrome extension and embeddable widget. Exploring AI/ML applications in education including natural language processing, computer vision, and adaptive learning systems.
 
@@ -16,7 +16,7 @@ Software Engineer and Per Scholas bootcamp graduate with a B.S. in Biology. I bu
 🎓 B.S. in Biology | Starting Master's in Data Science, January 2026  
 💡 Focused on AI/ML applications in education
 
-**Starting January 2026:** Beginning my Master's in Data Science/Machine Learning. I'll be combining software engineering with machine learning to build intelligent EdTech products - recommendation systems for learning paths, predictive models for learner success, and AI-powered features that adapt to how people actually learn. My goal is to master both building the models and the applications that use them.
+**Starting September 2026:** Beginning my Master's in Data Science/Machine Learning. I'll be combining software engineering with machine learning to build intelligent EdTech products - recommendation systems for learning paths, predictive models for learner success, and AI-powered features that adapt to student learning styles. My goal is to master both building the models and the applications that use them.
 
 ---
 
@@ -32,18 +32,18 @@ Software Engineer and Per Scholas bootcamp graduate with a B.S. in Biology. I bu
 
 ## 🚀 **Recent Work**
 
-### 🪺 **Smart Nest Chrome Extension**
+### 🪺 **SmartNest Video Updater Chrome Extension**
 
-Built my first Chrome extension to solve a problem I kept running into. Still in early development but excited about where it's headed.
+Built SmartNest Video Updater Chrome extension to solve a problem I kept running into.
 
 ✅ **Status:** Working prototype  
 🔄 **Next:** Adding AI features + Chrome Web Store launch
 
-**Tech Stack:** JavaScript (ES6+), Chrome Extension API, DOM Manipulation
+**Tech Stack:** JavaScript (ES6+), Chrome Extension API
 
 ---
 
-### **Smart Nest Learning Tracker - Full-Stack LMS**
+### **SmartNest EdTech Learning Tracker - Full-Stack LMS**
 
 Comprehensive learning management system designed to empower learners and educators. Built in one week as capstone project.
 ---Under construction for new updates -- so not fully live at this time---thank you for your patience---
@@ -71,7 +71,7 @@ Comprehensive learning management system designed to empower learners and educat
 
 ## 🎯 **What's Next**
 
-Starting my Master's in Data Science in January 2026, where I'll be conducting research at the intersection of AI and educational technology. Focus areas include machine learning applications for online learning environments and personalized educational experiences.
+Developing SmartNest EdTech learning platform's amazing components; starting my Master's in Data Science in September 2026, where I'll be conducting research at the intersection of AI and educational technology. Focus areas include machine learning applications for online learning environments and personalized educational experiences.
 
 Open to collaboration and conversations about innovative applications of AI in education.
 
