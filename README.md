@@ -73,7 +73,7 @@ Comprehensive learning management system designed to empower learners and educat
 
 ## 🎯 **What's Next**
 
-Developing SmartNest EdTech learning platform's amazing components; starting my Master's in Data Science in September 2026, where I'll be conducting research at the intersection of AI and educational technology. Focus areas include machine learning applications for online learning environments and personalized educational experiences.
+Developing SmartNest EdTech learning platform's amazing components; starting my Master's in Analytics with Computational Track, where I'll be conducting research at the intersection of AI and educational and the business of education technology. Focus areas include machine learning applications for online learning environments and personalized educational experiences.
 
 Open to collaboration and conversations about innovative applications of AI in education.
 
