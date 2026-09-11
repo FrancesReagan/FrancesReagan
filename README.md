@@ -10,13 +10,14 @@ I'm interested in collaborating on AI integration for education, particularly ar
 
 ## 👋 **About Me**
 
-Software Engineer and Per Scholas bootcamp graduate with a B.S. in Biology. I built 53 repositories over 15 weeks, mastering the MERN stack and modern web development practices. My work demonstrates rapid learning, consistent delivery, and a passion for educational technology innovation.
+Founder of Fable,LLC and creator of SmartNest and Elder AI Ed Tech invention, Masters of Analytics student at Georgia Tech, and learning Cybersecurity. Past education: Software Engineer and Per Scholas bootcamp graduate with a B.S. in Biology. I built 53 repositories over 15 weeks, mastering the MERN stack and modern web development practices. My work demonstrates rapid learning, consistent delivery, and a passion for educational technology innovation. Now I am continuing my learning and journey to making Ed Tech products.
 
 📍 Atlanta, GA  
-🎓 B.S. in Biology | Starting Master's in Data Science, January 2026  
+🎓 B.S. in Biology | Starting Master's in Analytics at Georgia Tech, Fall 2027  
+💡Inventor of SmartNest/Elder AI
 💡 Focused on AI/ML applications in education
 
-**Starting September 2026:** Beginning my Master's in Data Science/Machine Learning. I'll be combining software engineering with machine learning to build intelligent EdTech products - recommendation systems for learning paths, predictive models for learner success, and AI-powered features that adapt to student learning styles. My goal is to master both building the models and the applications that use them.
+**Starting August 2027:** Beginning my Master's in Analytics at Georgia Tech. I'll be combining software engineering, cybersecurity with machine learning and business acumen to build intelligent EdTech products - recommendation systems for learning paths, predictive models for learner success, and AI-powered features that adapt to student learning styles. My goal is to master these paths to build ed tech products that help learners to suceed.
 
 ---
 
@@ -25,6 +26,7 @@ Software Engineer and Per Scholas bootcamp graduate with a B.S. in Biology. I bu
 **Frontend:** React, JavaScript, TypeScript, Tailwind CSS, Responsive Design  
 **Backend:** Node.js, Express, MongoDB, REST APIs, JWT Authentication  
 **AI/ML (Learning):** Natural Language Processing, Computer Vision, Machine Learning, Fine-tuning LLMs, LoRA/PEFT, Hugging Face Transformers, PyTorch, Retrieval-Augmented Generation (RAG)  
+**Cybersecurity:**
 **Tools:** Git, GitHub, Netlify, Render, VS Code, Chrome Extensions  
 **Practices:** Agile workflow, clean code, code reviews, CI/CD basics
 
